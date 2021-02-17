@@ -1,1 +1,32 @@
-[{"id":"3101","nama":"KAB. ADM. KEP. SERIBU"},{"id":"3171","nama":"KOTA ADM. JAKARTA PUSAT"},{"id":"3172","nama":"KOTA ADM. JAKARTA UTARA"},{"id":"3173","nama":"KOTA ADM. JAKARTA BARAT"},{"id":"3174","nama":"KOTA ADM. JAKARTA SELATAN"},{"id":"3175","nama":"KOTA ADM. JAKARTA TIMUR"}]
+[
+    {
+        "id": 3101,
+        "id_provinsi": "31",
+        "nama": "Kabupaten Kepulauan Seribu"
+    },
+    {
+        "id": 3171,
+        "id_provinsi": "31",
+        "nama": "Kota Jakarta Selatan"
+    },
+    {
+        "id": 3172,
+        "id_provinsi": "31",
+        "nama": "Kota Jakarta Timur"
+    },
+    {
+        "id": 3173,
+        "id_provinsi": "31",
+        "nama": "Kota Jakarta Pusat"
+    },
+    {
+        "id": 3174,
+        "id_provinsi": "31",
+        "nama": "Kota Jakarta Barat"
+    },
+    {
+        "id": 3175,
+        "id_provinsi": "31",
+        "nama": "Kota Jakarta Utara"
+    }
+]

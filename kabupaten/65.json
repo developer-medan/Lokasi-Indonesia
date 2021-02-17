@@ -1,1 +1,27 @@
-[{"id":"6501","nama":"KAB. BULUNGAN"},{"id":"6502","nama":"KAB. MALINAU"},{"id":"6503","nama":"KAB. NUNUKAN"},{"id":"6504","nama":"KAB. TANA TIDUNG"},{"id":"6571","nama":"KOTA TARAKAN"}]
+[
+    {
+        "id": 6501,
+        "id_provinsi": "65",
+        "nama": "Kabupaten Malinau"
+    },
+    {
+        "id": 6502,
+        "id_provinsi": "65",
+        "nama": "Kabupaten Bulungan"
+    },
+    {
+        "id": 6503,
+        "id_provinsi": "65",
+        "nama": "Kabupaten Tana Tidung"
+    },
+    {
+        "id": 6504,
+        "id_provinsi": "65",
+        "nama": "Kabupaten Nunukan"
+    },
+    {
+        "id": 6571,
+        "id_provinsi": "65",
+        "nama": "Kota Tarakan"
+    }
+]

@@ -1,1 +1,137 @@
-[{"id":"3201","nama":"KAB. BOGOR"},{"id":"3202","nama":"KAB. SUKABUMI"},{"id":"3203","nama":"KAB. CIANJUR"},{"id":"3204","nama":"KAB. BANDUNG"},{"id":"3205","nama":"KAB. GARUT"},{"id":"3206","nama":"KAB. TASIKMALAYA"},{"id":"3207","nama":"KAB. CIAMIS"},{"id":"3208","nama":"KAB. KUNINGAN"},{"id":"3209","nama":"KAB. CIREBON"},{"id":"3210","nama":"KAB. MAJALENGKA"},{"id":"3211","nama":"KAB. SUMEDANG"},{"id":"3212","nama":"KAB. INDRAMAYU"},{"id":"3213","nama":"KAB. SUBANG"},{"id":"3214","nama":"KAB. PURWAKARTA"},{"id":"3215","nama":"KAB. KARAWANG"},{"id":"3216","nama":"KAB. BEKASI"},{"id":"3217","nama":"KAB. BANDUNG BARAT"},{"id":"3218","nama":"KAB. PANGANDARAN"},{"id":"3271","nama":"KOTA BOGOR"},{"id":"3272","nama":"KOTA SUKABUMI"},{"id":"3273","nama":"KOTA BANDUNG"},{"id":"3274","nama":"KOTA CIREBON"},{"id":"3275","nama":"KOTA BEKASI"},{"id":"3276","nama":"KOTA DEPOK"},{"id":"3277","nama":"KOTA CIMAHI"},{"id":"3278","nama":"KOTA TASIKMALAYA"},{"id":"3279","nama":"KOTA BANJAR"}]
+[
+    {
+        "id": 3201,
+        "id_provinsi": "32",
+        "nama": "Kabupaten Bogor"
+    },
+    {
+        "id": 3202,
+        "id_provinsi": "32",
+        "nama": "Kabupaten Sukabumi"
+    },
+    {
+        "id": 3203,
+        "id_provinsi": "32",
+        "nama": "Kabupaten Cianjur"
+    },
+    {
+        "id": 3204,
+        "id_provinsi": "32",
+        "nama": "Kabupaten Bandung"
+    },
+    {
+        "id": 3205,
+        "id_provinsi": "32",
+        "nama": "Kabupaten Garut"
+    },
+    {
+        "id": 3206,
+        "id_provinsi": "32",
+        "nama": "Kabupaten Tasikmalaya"
+    },
+    {
+        "id": 3207,
+        "id_provinsi": "32",
+        "nama": "Kabupaten Ciamis"
+    },
+    {
+        "id": 3208,
+        "id_provinsi": "32",
+        "nama": "Kabupaten Kuningan"
+    },
+    {
+        "id": 3209,
+        "id_provinsi": "32",
+        "nama": "Kabupaten Cirebon"
+    },
+    {
+        "id": 3210,
+        "id_provinsi": "32",
+        "nama": "Kabupaten Majalengka"
+    },
+    {
+        "id": 3211,
+        "id_provinsi": "32",
+        "nama": "Kabupaten Sumedang"
+    },
+    {
+        "id": 3212,
+        "id_provinsi": "32",
+        "nama": "Kabupaten Indramayu"
+    },
+    {
+        "id": 3213,
+        "id_provinsi": "32",
+        "nama": "Kabupaten Subang"
+    },
+    {
+        "id": 3214,
+        "id_provinsi": "32",
+        "nama": "Kabupaten Purwakarta"
+    },
+    {
+        "id": 3215,
+        "id_provinsi": "32",
+        "nama": "Kabupaten Karawang"
+    },
+    {
+        "id": 3216,
+        "id_provinsi": "32",
+        "nama": "Kabupaten Bekasi"
+    },
+    {
+        "id": 3217,
+        "id_provinsi": "32",
+        "nama": "Kabupaten Bandung Barat"
+    },
+    {
+        "id": 3218,
+        "id_provinsi": "32",
+        "nama": "Kabupaten Pangandaran"
+    },
+    {
+        "id": 3271,
+        "id_provinsi": "32",
+        "nama": "Kota Bogor"
+    },
+    {
+        "id": 3272,
+        "id_provinsi": "32",
+        "nama": "Kota Sukabumi"
+    },
+    {
+        "id": 3273,
+        "id_provinsi": "32",
+        "nama": "Kota Bandung"
+    },
+    {
+        "id": 3274,
+        "id_provinsi": "32",
+        "nama": "Kota Cirebon"
+    },
+    {
+        "id": 3275,
+        "id_provinsi": "32",
+        "nama": "Kota Bekasi"
+    },
+    {
+        "id": 3276,
+        "id_provinsi": "32",
+        "nama": "Kota Depok"
+    },
+    {
+        "id": 3277,
+        "id_provinsi": "32",
+        "nama": "Kota Cimahi"
+    },
+    {
+        "id": 3278,
+        "id_provinsi": "32",
+        "nama": "Kota Tasikmalaya"
+    },
+    {
+        "id": 3279,
+        "id_provinsi": "32",
+        "nama": "Kota Banjar"
+    }
+]

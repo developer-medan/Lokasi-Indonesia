@@ -1,1 +1,67 @@
-[{"id":"7201","nama":"KAB. BANGGAI"},{"id":"7202","nama":"KAB. POSO"},{"id":"7203","nama":"KAB. DONGGALA"},{"id":"7204","nama":"KAB. TOLI TOLI"},{"id":"7205","nama":"KAB. BUOL"},{"id":"7206","nama":"KAB. MOROWALI"},{"id":"7207","nama":"KAB. BANGGAI KEPULAUAN"},{"id":"7208","nama":"KAB. PARIGI MOUTONG"},{"id":"7209","nama":"KAB. TOJO UNA UNA"},{"id":"7210","nama":"KAB. SIGI"},{"id":"7211","nama":"KAB. BANGGAI LAUT"},{"id":"7212","nama":"KAB. MOROWALI UTARA"},{"id":"7271","nama":"KOTA PALU"}]
+[
+    {
+        "id": 7201,
+        "id_provinsi": "72",
+        "nama": "Kabupaten Banggai Kepulauan"
+    },
+    {
+        "id": 7202,
+        "id_provinsi": "72",
+        "nama": "Kabupaten Banggai"
+    },
+    {
+        "id": 7203,
+        "id_provinsi": "72",
+        "nama": "Kabupaten Morowali"
+    },
+    {
+        "id": 7204,
+        "id_provinsi": "72",
+        "nama": "Kabupaten Poso"
+    },
+    {
+        "id": 7205,
+        "id_provinsi": "72",
+        "nama": "Kabupaten Donggala"
+    },
+    {
+        "id": 7206,
+        "id_provinsi": "72",
+        "nama": "Kabupaten Toli-toli"
+    },
+    {
+        "id": 7207,
+        "id_provinsi": "72",
+        "nama": "Kabupaten Buol"
+    },
+    {
+        "id": 7208,
+        "id_provinsi": "72",
+        "nama": "Kabupaten Parigi Moutong"
+    },
+    {
+        "id": 7209,
+        "id_provinsi": "72",
+        "nama": "Kabupaten Tojo Una-una"
+    },
+    {
+        "id": 7210,
+        "id_provinsi": "72",
+        "nama": "Kabupaten Sigi"
+    },
+    {
+        "id": 7211,
+        "id_provinsi": "72",
+        "nama": "Kabupaten Banggai Laut"
+    },
+    {
+        "id": 7212,
+        "id_provinsi": "72",
+        "nama": "Kabupaten Morowali Utara"
+    },
+    {
+        "id": 7271,
+        "id_provinsi": "72",
+        "nama": "Kota Palu"
+    }
+]

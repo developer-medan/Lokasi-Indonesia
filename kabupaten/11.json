@@ -1,1 +1,117 @@
-[{"id":"1101","nama":"KAB. ACEH SELATAN"},{"id":"1102","nama":"KAB. ACEH TENGGARA"},{"id":"1103","nama":"KAB. ACEH TIMUR"},{"id":"1104","nama":"KAB. ACEH TENGAH"},{"id":"1105","nama":"KAB. ACEH BARAT"},{"id":"1106","nama":"KAB. ACEH BESAR"},{"id":"1107","nama":"KAB. PIDIE"},{"id":"1108","nama":"KAB. ACEH UTARA"},{"id":"1109","nama":"KAB. SIMEULUE"},{"id":"1110","nama":"KAB. ACEH SINGKIL"},{"id":"1111","nama":"KAB. BIREUEN"},{"id":"1112","nama":"KAB. ACEH BARAT DAYA"},{"id":"1113","nama":"KAB. GAYO LUES"},{"id":"1114","nama":"KAB. ACEH JAYA"},{"id":"1115","nama":"KAB. NAGAN RAYA"},{"id":"1116","nama":"KAB. ACEH TAMIANG"},{"id":"1117","nama":"KAB. BENER MERIAH"},{"id":"1118","nama":"KAB. PIDIE JAYA"},{"id":"1171","nama":"KOTA BANDA ACEH"},{"id":"1172","nama":"KOTA SABANG"},{"id":"1173","nama":"KOTA LHOKSEUMAWE"},{"id":"1174","nama":"KOTA LANGSA"},{"id":"1175","nama":"KOTA SUBULUSSALAM"}]
+[
+    {
+        "id": 1101,
+        "id_provinsi": "11",
+        "nama": "Kabupaten Simeulue"
+    },
+    {
+        "id": 1102,
+        "id_provinsi": "11",
+        "nama": "Kabupaten Aceh Singkil"
+    },
+    {
+        "id": 1103,
+        "id_provinsi": "11",
+        "nama": "Kabupaten Aceh Selatan"
+    },
+    {
+        "id": 1104,
+        "id_provinsi": "11",
+        "nama": "Kabupaten Aceh Tenggara"
+    },
+    {
+        "id": 1105,
+        "id_provinsi": "11",
+        "nama": "Kabupaten Aceh Timur"
+    },
+    {
+        "id": 1106,
+        "id_provinsi": "11",
+        "nama": "Kabupaten Aceh Tengah"
+    },
+    {
+        "id": 1107,
+        "id_provinsi": "11",
+        "nama": "Kabupaten Aceh Barat"
+    },
+    {
+        "id": 1108,
+        "id_provinsi": "11",
+        "nama": "Kabupaten Aceh Besar"
+    },
+    {
+        "id": 1109,
+        "id_provinsi": "11",
+        "nama": "Kabupaten Pidie"
+    },
+    {
+        "id": 1110,
+        "id_provinsi": "11",
+        "nama": "Kabupaten Bireuen"
+    },
+    {
+        "id": 1111,
+        "id_provinsi": "11",
+        "nama": "Kabupaten Aceh Utara"
+    },
+    {
+        "id": 1112,
+        "id_provinsi": "11",
+        "nama": "Kabupaten Aceh Barat Daya"
+    },
+    {
+        "id": 1113,
+        "id_provinsi": "11",
+        "nama": "Kabupaten Gayo Lues"
+    },
+    {
+        "id": 1114,
+        "id_provinsi": "11",
+        "nama": "Kabupaten Aceh Tamiang"
+    },
+    {
+        "id": 1115,
+        "id_provinsi": "11",
+        "nama": "Kabupaten Nagan Raya"
+    },
+    {
+        "id": 1116,
+        "id_provinsi": "11",
+        "nama": "Kabupaten Aceh Jaya"
+    },
+    {
+        "id": 1117,
+        "id_provinsi": "11",
+        "nama": "Kabupaten Bener Meriah"
+    },
+    {
+        "id": 1118,
+        "id_provinsi": "11",
+        "nama": "Kabupaten Pidie Jaya"
+    },
+    {
+        "id": 1171,
+        "id_provinsi": "11",
+        "nama": "Kota Banda Aceh"
+    },
+    {
+        "id": 1172,
+        "id_provinsi": "11",
+        "nama": "Kota Sabang"
+    },
+    {
+        "id": 1173,
+        "id_provinsi": "11",
+        "nama": "Kota Langsa"
+    },
+    {
+        "id": 1174,
+        "id_provinsi": "11",
+        "nama": "Kota Lhokseumawe"
+    },
+    {
+        "id": 1175,
+        "id_provinsi": "11",
+        "nama": "Kota Subulussalam"
+    }
+]

@@ -1,1 +1,47 @@
-[{"id":"5101","nama":"KAB. JEMBRANA"},{"id":"5102","nama":"KAB. TABANAN"},{"id":"5103","nama":"KAB. BADUNG"},{"id":"5104","nama":"KAB. GIANYAR"},{"id":"5105","nama":"KAB. KLUNGKUNG"},{"id":"5106","nama":"KAB. BANGLI"},{"id":"5107","nama":"KAB. KARANGASEM"},{"id":"5108","nama":"KAB. BULELENG"},{"id":"5171","nama":"KOTA DENPASAR"}]
+[
+    {
+        "id": 5101,
+        "id_provinsi": "51",
+        "nama": "Kabupaten Jembrana"
+    },
+    {
+        "id": 5102,
+        "id_provinsi": "51",
+        "nama": "Kabupaten Tabanan"
+    },
+    {
+        "id": 5103,
+        "id_provinsi": "51",
+        "nama": "Kabupaten Badung"
+    },
+    {
+        "id": 5104,
+        "id_provinsi": "51",
+        "nama": "Kabupaten Gianyar"
+    },
+    {
+        "id": 5105,
+        "id_provinsi": "51",
+        "nama": "Kabupaten Klungkung"
+    },
+    {
+        "id": 5106,
+        "id_provinsi": "51",
+        "nama": "Kabupaten Bangli"
+    },
+    {
+        "id": 5107,
+        "id_provinsi": "51",
+        "nama": "Kabupaten Karang Asem"
+    },
+    {
+        "id": 5108,
+        "id_provinsi": "51",
+        "nama": "Kabupaten Buleleng"
+    },
+    {
+        "id": 5171,
+        "id_provinsi": "51",
+        "nama": "Kota Denpasar"
+    }
+]

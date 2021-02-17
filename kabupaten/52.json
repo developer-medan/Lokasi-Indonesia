@@ -1,1 +1,52 @@
-[{"id":"5201","nama":"KAB. LOMBOK BARAT"},{"id":"5202","nama":"KAB. LOMBOK TENGAH"},{"id":"5203","nama":"KAB. LOMBOK TIMUR"},{"id":"5204","nama":"KAB. SUMBAWA"},{"id":"5205","nama":"KAB. DOMPU"},{"id":"5206","nama":"KAB. BIMA"},{"id":"5207","nama":"KAB. SUMBAWA BARAT"},{"id":"5208","nama":"KAB. LOMBOK UTARA"},{"id":"5271","nama":"KOTA MATARAM"},{"id":"5272","nama":"KOTA BIMA"}]
+[
+    {
+        "id": 5201,
+        "id_provinsi": "52",
+        "nama": "Kabupaten Lombok Barat"
+    },
+    {
+        "id": 5202,
+        "id_provinsi": "52",
+        "nama": "Kabupaten Lombok Tengah"
+    },
+    {
+        "id": 5203,
+        "id_provinsi": "52",
+        "nama": "Kabupaten Lombok Timur"
+    },
+    {
+        "id": 5204,
+        "id_provinsi": "52",
+        "nama": "Kabupaten Sumbawa"
+    },
+    {
+        "id": 5205,
+        "id_provinsi": "52",
+        "nama": "Kabupaten Dompu"
+    },
+    {
+        "id": 5206,
+        "id_provinsi": "52",
+        "nama": "Kabupaten Bima"
+    },
+    {
+        "id": 5207,
+        "id_provinsi": "52",
+        "nama": "Kabupaten Sumbawa Barat"
+    },
+    {
+        "id": 5208,
+        "id_provinsi": "52",
+        "nama": "Kabupaten Lombok Utara"
+    },
+    {
+        "id": 5271,
+        "id_provinsi": "52",
+        "nama": "Kota Mataram"
+    },
+    {
+        "id": 5272,
+        "id_provinsi": "52",
+        "nama": "Kota Bima"
+    }
+]

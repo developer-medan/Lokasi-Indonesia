@@ -1,1 +1,57 @@
-[{"id":"8101","nama":"KAB. MALUKU TENGAH"},{"id":"8102","nama":"KAB. MALUKU TENGGARA"},{"id":"8103","nama":"KAB. MALUKU TENGGARA BARAT"},{"id":"8104","nama":"KAB. BURU"},{"id":"8105","nama":"KAB. SERAM BAGIAN TIMUR"},{"id":"8106","nama":"KAB. SERAM BAGIAN BARAT"},{"id":"8107","nama":"KAB. KEPULAUAN ARU"},{"id":"8108","nama":"KAB. MALUKU BARAT DAYA"},{"id":"8109","nama":"KAB. BURU SELATAN"},{"id":"8171","nama":"KOTA AMBON"},{"id":"8172","nama":"KOTA TUAL"}]
+[
+    {
+        "id": 8101,
+        "id_provinsi": "81",
+        "nama": "Kabupaten Maluku Tenggara Barat"
+    },
+    {
+        "id": 8102,
+        "id_provinsi": "81",
+        "nama": "Kabupaten Maluku Tenggara"
+    },
+    {
+        "id": 8103,
+        "id_provinsi": "81",
+        "nama": "Kabupaten Maluku Tengah"
+    },
+    {
+        "id": 8104,
+        "id_provinsi": "81",
+        "nama": "Kabupaten Buru"
+    },
+    {
+        "id": 8105,
+        "id_provinsi": "81",
+        "nama": "Kabupaten Kepulauan Aru"
+    },
+    {
+        "id": 8106,
+        "id_provinsi": "81",
+        "nama": "Kabupaten Seram Bagian Barat"
+    },
+    {
+        "id": 8107,
+        "id_provinsi": "81",
+        "nama": "Kabupaten Seram Bagian Timur"
+    },
+    {
+        "id": 8108,
+        "id_provinsi": "81",
+        "nama": "Kabupaten Maluku Barat Daya"
+    },
+    {
+        "id": 8109,
+        "id_provinsi": "81",
+        "nama": "Kabupaten Buru Selatan"
+    },
+    {
+        "id": 8171,
+        "id_provinsi": "81",
+        "nama": "Kota Ambon"
+    },
+    {
+        "id": 8172,
+        "id_provinsi": "81",
+        "nama": "Kota Tual"
+    }
+]

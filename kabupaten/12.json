@@ -1,1 +1,167 @@
-[{"id":"1201","nama":"KAB. TAPANULI TENGAH"},{"id":"1202","nama":"KAB. TAPANULI UTARA"},{"id":"1203","nama":"KAB. TAPANULI SELATAN"},{"id":"1204","nama":"KAB. NIAS"},{"id":"1205","nama":"KAB. LANGKAT"},{"id":"1206","nama":"KAB. KARO"},{"id":"1207","nama":"KAB. DELI SERDANG"},{"id":"1208","nama":"KAB. SIMALUNGUN"},{"id":"1209","nama":"KAB. ASAHAN"},{"id":"1210","nama":"KAB. LABUHANBATU"},{"id":"1211","nama":"KAB. DAIRI"},{"id":"1212","nama":"KAB. TOBA SAMOSIR"},{"id":"1213","nama":"KAB. MANDAILING NATAL"},{"id":"1214","nama":"KAB. NIAS SELATAN"},{"id":"1215","nama":"KAB. PAKPAK BHARAT"},{"id":"1216","nama":"KAB. HUMBANG HASUNDUTAN"},{"id":"1217","nama":"KAB. SAMOSIR"},{"id":"1218","nama":"KAB. SERDANG BEDAGAI"},{"id":"1219","nama":"KAB. BATU BARA"},{"id":"1220","nama":"KAB. PADANG LAWAS UTARA"},{"id":"1221","nama":"KAB. PADANG LAWAS"},{"id":"1222","nama":"KAB. LABUHANBATU SELATAN"},{"id":"1223","nama":"KAB. LABUHANBATU UTARA"},{"id":"1224","nama":"KAB. NIAS UTARA"},{"id":"1225","nama":"KAB. NIAS BARAT"},{"id":"1271","nama":"KOTA MEDAN"},{"id":"1272","nama":"KOTA PEMATANGSIANTAR"},{"id":"1273","nama":"KOTA SIBOLGA"},{"id":"1274","nama":"KOTA TANJUNG BALAI"},{"id":"1275","nama":"KOTA BINJAI"},{"id":"1276","nama":"KOTA TEBING TINGGI"},{"id":"1277","nama":"KOTA PADANGSIDIMPUAN"},{"id":"1278","nama":"KOTA GUNUNGSITOLI"}]
+[
+    {
+        "id": 1201,
+        "id_provinsi": "12",
+        "nama": "Kabupaten Nias"
+    },
+    {
+        "id": 1202,
+        "id_provinsi": "12",
+        "nama": "Kabupaten Mandailing Natal"
+    },
+    {
+        "id": 1203,
+        "id_provinsi": "12",
+        "nama": "Kabupaten Tapanuli Selatan"
+    },
+    {
+        "id": 1204,
+        "id_provinsi": "12",
+        "nama": "Kabupaten Tapanuli Tengah"
+    },
+    {
+        "id": 1205,
+        "id_provinsi": "12",
+        "nama": "Kabupaten Tapanuli Utara"
+    },
+    {
+        "id": 1206,
+        "id_provinsi": "12",
+        "nama": "Kabupaten Toba Samosir"
+    },
+    {
+        "id": 1207,
+        "id_provinsi": "12",
+        "nama": "Kabupaten Labuhan Batu"
+    },
+    {
+        "id": 1208,
+        "id_provinsi": "12",
+        "nama": "Kabupaten Asahan"
+    },
+    {
+        "id": 1209,
+        "id_provinsi": "12",
+        "nama": "Kabupaten Simalungun"
+    },
+    {
+        "id": 1210,
+        "id_provinsi": "12",
+        "nama": "Kabupaten Dairi"
+    },
+    {
+        "id": 1211,
+        "id_provinsi": "12",
+        "nama": "Kabupaten Karo"
+    },
+    {
+        "id": 1212,
+        "id_provinsi": "12",
+        "nama": "Kabupaten Deli Serdang"
+    },
+    {
+        "id": 1213,
+        "id_provinsi": "12",
+        "nama": "Kabupaten Langkat"
+    },
+    {
+        "id": 1214,
+        "id_provinsi": "12",
+        "nama": "Kabupaten Nias Selatan"
+    },
+    {
+        "id": 1215,
+        "id_provinsi": "12",
+        "nama": "Kabupaten Humbang Hasundutan"
+    },
+    {
+        "id": 1216,
+        "id_provinsi": "12",
+        "nama": "Kabupaten Pakpak Bharat"
+    },
+    {
+        "id": 1217,
+        "id_provinsi": "12",
+        "nama": "Kabupaten Samosir"
+    },
+    {
+        "id": 1218,
+        "id_provinsi": "12",
+        "nama": "Kabupaten Serdang Bedagai"
+    },
+    {
+        "id": 1219,
+        "id_provinsi": "12",
+        "nama": "Kabupaten Batu Bara"
+    },
+    {
+        "id": 1220,
+        "id_provinsi": "12",
+        "nama": "Kabupaten Padang Lawas Utara"
+    },
+    {
+        "id": 1221,
+        "id_provinsi": "12",
+        "nama": "Kabupaten Padang Lawas"
+    },
+    {
+        "id": 1222,
+        "id_provinsi": "12",
+        "nama": "Kabupaten Labuhan Batu Selatan"
+    },
+    {
+        "id": 1223,
+        "id_provinsi": "12",
+        "nama": "Kabupaten Labuhan Batu Utara"
+    },
+    {
+        "id": 1224,
+        "id_provinsi": "12",
+        "nama": "Kabupaten Nias Utara"
+    },
+    {
+        "id": 1225,
+        "id_provinsi": "12",
+        "nama": "Kabupaten Nias Barat"
+    },
+    {
+        "id": 1271,
+        "id_provinsi": "12",
+        "nama": "Kota Sibolga"
+    },
+    {
+        "id": 1272,
+        "id_provinsi": "12",
+        "nama": "Kota Tanjung Balai"
+    },
+    {
+        "id": 1273,
+        "id_provinsi": "12",
+        "nama": "Kota Pematang Siantar"
+    },
+    {
+        "id": 1274,
+        "id_provinsi": "12",
+        "nama": "Kota Tebing Tinggi"
+    },
+    {
+        "id": 1275,
+        "id_provinsi": "12",
+        "nama": "Kota Medan"
+    },
+    {
+        "id": 1276,
+        "id_provinsi": "12",
+        "nama": "Kota Binjai"
+    },
+    {
+        "id": 1277,
+        "id_provinsi": "12",
+        "nama": "Kota Padangsidimpuan"
+    },
+    {
+        "id": 1278,
+        "id_provinsi": "12",
+        "nama": "Kota Gunungsitoli"
+    }
+]

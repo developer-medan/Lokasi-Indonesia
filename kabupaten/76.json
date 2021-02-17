@@ -1,1 +1,32 @@
-[{"id":"7601","nama":"KAB. MAMUJU UTARA"},{"id":"7602","nama":"KAB. MAMUJU"},{"id":"7603","nama":"KAB. MAMASA"},{"id":"7604","nama":"KAB. POLEWALI MANDAR"},{"id":"7605","nama":"KAB. MAJENE"},{"id":"7606","nama":"KAB. MAMUJU TENGAH"}]
+[
+    {
+        "id": 7601,
+        "id_provinsi": "76",
+        "nama": "Kabupaten Majene"
+    },
+    {
+        "id": 7602,
+        "id_provinsi": "76",
+        "nama": "Kabupaten Polewali Mandar"
+    },
+    {
+        "id": 7603,
+        "id_provinsi": "76",
+        "nama": "Kabupaten Mamasa"
+    },
+    {
+        "id": 7604,
+        "id_provinsi": "76",
+        "nama": "Kabupaten Mamuju"
+    },
+    {
+        "id": 7605,
+        "id_provinsi": "76",
+        "nama": "Kabupaten Mamuju Utara"
+    },
+    {
+        "id": 7606,
+        "id_provinsi": "76",
+        "nama": "Kabupaten Mamuju Tengah"
+    }
+]
